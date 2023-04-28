@@ -1,4 +1,4 @@
 merhaba bu bir deneme dosyasıdır.
 Test devam ediyor.
 Bu da ucuncu test icin bir satır
-buda enese bir ek olsun :)
+bu da dördüncü test için satır.
